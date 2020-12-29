@@ -1,0 +1,130 @@
+1609265643558	geckodriver	INFO	Listening on 127.0.0.1:50864
+1609265646600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofile5lp6AA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609265650358	Marionette	INFO	Listening on port 50880
+1609265650803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1609265652281	Marionette	INFO	Stopped listening on port 50880
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609266204613	geckodriver	INFO	Listening on 127.0.0.1:52070
+1609266207662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofileq3XiUz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609266211252	Marionette	INFO	Listening on port 52083
+1609266211368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609266227333	Marionette	INFO	Stopped listening on port 52083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609266465310	geckodriver	INFO	Listening on 127.0.0.1:53036
+1609266468354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofilexA9Nsv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609266471855	Marionette	INFO	Listening on port 53050
+1609266472046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609266557943	geckodriver	INFO	Listening on 127.0.0.1:53399
+1609266560993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofilebCuj3x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609266564549	Marionette	INFO	Listening on port 53413
+1609266564708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609266952096	geckodriver	INFO	Listening on 127.0.0.1:54543
+1609266955131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofileg3jMWl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609266958584	Marionette	INFO	Listening on port 54560
+1609266958817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267033376	geckodriver	INFO	Listening on 127.0.0.1:54855
+1609267036429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofile6SvDxl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267039885	Marionette	INFO	Listening on port 54971
+1609267040118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267069374	geckodriver	INFO	Listening on 127.0.0.1:55155
+1609267072424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofileac6gpq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267075897	Marionette	INFO	Listening on port 55167
+1609267076116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267170762	geckodriver	INFO	Listening on 127.0.0.1:55540
+1609267173820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofileIvfnQw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267177445	Marionette	INFO	Listening on port 55563
+1609267177507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267403594	geckodriver	INFO	Listening on 127.0.0.1:56259
+1609267406649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofilefVc3fv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267410599	Marionette	INFO	Listening on port 56276
+1609267410888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267418191	Marionette	INFO	Stopped listening on port 56276
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609267466662	geckodriver	INFO	Listening on 127.0.0.1:56579
+1609267469724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofile5CPrtd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267473236	Marionette	INFO	Listening on port 56594
+1609267473412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267632051	geckodriver	INFO	Listening on 127.0.0.1:57183
+1609267635080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilav\\AppData\\Local\\Temp\\rust_mozprofile7eQH8H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609267638955	Marionette	INFO	Listening on port 57204
+[Parent 3808, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609267639286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609267647923	Marionette	INFO	Stopped listening on port 57204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609272337973	geckodriver	INFO	Listening on 127.0.0.1:62566
+1609272338880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rk/7mpb31sn1wg970lld_6908z40000gn/T/rust_mozprofilezqGxpb"
+2020-12-29 14:05:43.332 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSButton: 0x137a03800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.332 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSButton: 0x137a04800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.332 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSButton: 0x137a0f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.333 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSButton: 0x137a0b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.333 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSButton: 0x137a0ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.334 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137a10800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:05:43.334 firefox-bin[52297:2345563] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13855ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609272344428	Marionette	INFO	Listening on port 62575
+1609272344538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609272347051	Marionette	INFO	Stopped listening on port 62575
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609273064333	geckodriver	INFO	Listening on 127.0.0.1:62996
+1609273064346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rk/7mpb31sn1wg970lld_6908z40000gn/T/rust_mozprofileCzQtiB"
+2020-12-29 14:17:45.817 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSButton: 0x13a204400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.817 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSButton: 0x13a205000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.818 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSButton: 0x13a205c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.818 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSButton: 0x13a204c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.819 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSButton: 0x13a205800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.819 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a211c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2020-12-29 14:17:45.820 firefox-bin[52560:2354917] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13af69000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609273066839	Marionette	INFO	Listening on port 63001
+1609273066918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609273069105	Marionette	INFO	Stopped listening on port 63001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
