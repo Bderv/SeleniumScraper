@@ -1,5 +1,5 @@
 # Selenium Scraper
-Used Selenium to create a small script that scrapes the name, price and number of reviews from the E-commerce site and compiles that information into a csv file.
+Used Selenium to create a small script that scrapes the name, price and number of reviews from the E-commerce site which compiles that information into a csv file.
 
 ## Requirements
 * Python
