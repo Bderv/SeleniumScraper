@@ -17,7 +17,7 @@ infos = []
 for product, price, review in zip(prod_elements, price_elements, review_elements):
     infos.append([product.get_attribute('title'), price.text, review.text])
 
-# turn that array into a csv with columns for each
+# turn the array into a csv with columns for each desired element
 df = pd.DataFrame(infos, columns = ["Product Name", "Price", "No of reviews"])
 df.to_csv("infos.csv")
 
